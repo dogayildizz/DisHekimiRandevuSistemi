@@ -1,0 +1,12 @@
+C:\Users\dogas\OneDrive\Masaüstü\DisHekimiRandevuSistemi\DisHekimiRandevuYonetimSistemi\DisHekimiRandevuSistemi.BLL\bin\Debug\net8.0\DisHekimiRandevuSistemi.BLL.deps.json
+C:\Users\dogas\OneDrive\Masaüstü\DisHekimiRandevuSistemi\DisHekimiRandevuYonetimSistemi\DisHekimiRandevuSistemi.BLL\bin\Debug\net8.0\DisHekimiRandevuSistemi.BLL.dll
+C:\Users\dogas\OneDrive\Masaüstü\DisHekimiRandevuSistemi\DisHekimiRandevuYonetimSistemi\DisHekimiRandevuSistemi.BLL\bin\Debug\net8.0\DisHekimiRandevuSistemi.BLL.pdb
+C:\Users\dogas\OneDrive\Masaüstü\DisHekimiRandevuSistemi\DisHekimiRandevuYonetimSistemi\DisHekimiRandevuSistemi.BLL\obj\Debug\net8.0\DisHekimiRandevuSistemi.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dogas\OneDrive\Masaüstü\DisHekimiRandevuSistemi\DisHekimiRandevuYonetimSistemi\DisHekimiRandevuSistemi.BLL\obj\Debug\net8.0\DisHekimiRandevuSistemi.BLL.AssemblyInfoInputs.cache
+C:\Users\dogas\OneDrive\Masaüstü\DisHekimiRandevuSistemi\DisHekimiRandevuYonetimSistemi\DisHekimiRandevuSistemi.BLL\obj\Debug\net8.0\DisHekimiRandevuSistemi.BLL.AssemblyInfo.cs
+C:\Users\dogas\OneDrive\Masaüstü\DisHekimiRandevuSistemi\DisHekimiRandevuYonetimSistemi\DisHekimiRandevuSistemi.BLL\obj\Debug\net8.0\DisHekimiRandevuSistemi.BLL.csproj.CoreCompileInputs.cache
+C:\Users\dogas\OneDrive\Masaüstü\DisHekimiRandevuSistemi\DisHekimiRandevuYonetimSistemi\DisHekimiRandevuSistemi.BLL\obj\Debug\net8.0\DisHekimiRandevuSistemi.BLL.sourcelink.json
+C:\Users\dogas\OneDrive\Masaüstü\DisHekimiRandevuSistemi\DisHekimiRandevuYonetimSistemi\DisHekimiRandevuSistemi.BLL\obj\Debug\net8.0\DisHekimiRandevuSistemi.BLL.dll
+C:\Users\dogas\OneDrive\Masaüstü\DisHekimiRandevuSistemi\DisHekimiRandevuYonetimSistemi\DisHekimiRandevuSistemi.BLL\obj\Debug\net8.0\refint\DisHekimiRandevuSistemi.BLL.dll
+C:\Users\dogas\OneDrive\Masaüstü\DisHekimiRandevuSistemi\DisHekimiRandevuYonetimSistemi\DisHekimiRandevuSistemi.BLL\obj\Debug\net8.0\DisHekimiRandevuSistemi.BLL.pdb
+C:\Users\dogas\OneDrive\Masaüstü\DisHekimiRandevuSistemi\DisHekimiRandevuYonetimSistemi\DisHekimiRandevuSistemi.BLL\obj\Debug\net8.0\ref\DisHekimiRandevuSistemi.BLL.dll

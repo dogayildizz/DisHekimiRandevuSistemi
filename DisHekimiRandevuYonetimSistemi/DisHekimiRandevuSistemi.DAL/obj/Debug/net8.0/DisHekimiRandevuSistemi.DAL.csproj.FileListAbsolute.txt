@@ -1,0 +1,15 @@
+C:\Users\dogas\OneDrive\Masaüstü\DisHekimiRandevuSistemi\DisHekimiRandevuYonetimSistemi\DisHekimiRandevuSistemi.DAL\bin\Debug\net8.0\DisHekimiRandevuSistemi.DAL.deps.json
+C:\Users\dogas\OneDrive\Masaüstü\DisHekimiRandevuSistemi\DisHekimiRandevuYonetimSistemi\DisHekimiRandevuSistemi.DAL\bin\Debug\net8.0\DisHekimiRandevuSistemi.DAL.runtimeconfig.json
+C:\Users\dogas\OneDrive\Masaüstü\DisHekimiRandevuSistemi\DisHekimiRandevuYonetimSistemi\DisHekimiRandevuSistemi.DAL\bin\Debug\net8.0\DisHekimiRandevuSistemi.DAL.dll
+C:\Users\dogas\OneDrive\Masaüstü\DisHekimiRandevuSistemi\DisHekimiRandevuYonetimSistemi\DisHekimiRandevuSistemi.DAL\bin\Debug\net8.0\DisHekimiRandevuSistemi.DAL.pdb
+C:\Users\dogas\OneDrive\Masaüstü\DisHekimiRandevuSistemi\DisHekimiRandevuYonetimSistemi\DisHekimiRandevuSistemi.DAL\obj\Debug\net8.0\DisHekimiRandevuSistemi.DAL.csproj.AssemblyReference.cache
+C:\Users\dogas\OneDrive\Masaüstü\DisHekimiRandevuSistemi\DisHekimiRandevuYonetimSistemi\DisHekimiRandevuSistemi.DAL\obj\Debug\net8.0\DisHekimiRandevuSistemi.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dogas\OneDrive\Masaüstü\DisHekimiRandevuSistemi\DisHekimiRandevuYonetimSistemi\DisHekimiRandevuSistemi.DAL\obj\Debug\net8.0\DisHekimiRandevuSistemi.DAL.AssemblyInfoInputs.cache
+C:\Users\dogas\OneDrive\Masaüstü\DisHekimiRandevuSistemi\DisHekimiRandevuYonetimSistemi\DisHekimiRandevuSistemi.DAL\obj\Debug\net8.0\DisHekimiRandevuSistemi.DAL.AssemblyInfo.cs
+C:\Users\dogas\OneDrive\Masaüstü\DisHekimiRandevuSistemi\DisHekimiRandevuYonetimSistemi\DisHekimiRandevuSistemi.DAL\obj\Debug\net8.0\DisHekimiRandevuSistemi.DAL.csproj.CoreCompileInputs.cache
+C:\Users\dogas\OneDrive\Masaüstü\DisHekimiRandevuSistemi\DisHekimiRandevuYonetimSistemi\DisHekimiRandevuSistemi.DAL\obj\Debug\net8.0\DisHekimiRandevuSistemi.DAL.sourcelink.json
+C:\Users\dogas\OneDrive\Masaüstü\DisHekimiRandevuSistemi\DisHekimiRandevuYonetimSistemi\DisHekimiRandevuSistemi.DAL\obj\Debug\net8.0\DisHekimiRandevuSistemi.DAL.dll
+C:\Users\dogas\OneDrive\Masaüstü\DisHekimiRandevuSistemi\DisHekimiRandevuYonetimSistemi\DisHekimiRandevuSistemi.DAL\obj\Debug\net8.0\refint\DisHekimiRandevuSistemi.DAL.dll
+C:\Users\dogas\OneDrive\Masaüstü\DisHekimiRandevuSistemi\DisHekimiRandevuYonetimSistemi\DisHekimiRandevuSistemi.DAL\obj\Debug\net8.0\DisHekimiRandevuSistemi.DAL.pdb
+C:\Users\dogas\OneDrive\Masaüstü\DisHekimiRandevuSistemi\DisHekimiRandevuYonetimSistemi\DisHekimiRandevuSistemi.DAL\obj\Debug\net8.0\DisHekimiRandevuSistemi.DAL.genruntimeconfig.cache
+C:\Users\dogas\OneDrive\Masaüstü\DisHekimiRandevuSistemi\DisHekimiRandevuYonetimSistemi\DisHekimiRandevuSistemi.DAL\obj\Debug\net8.0\ref\DisHekimiRandevuSistemi.DAL.dll
