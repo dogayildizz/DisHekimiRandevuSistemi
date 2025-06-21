@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\dogas\\OneDrive\\Masa\u00FCst\u00FC\\DisHekimiRandevuSistemi\\DisHekimiRandevuYonetimSistemi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F8D72395-6C98-4319-9D1D-66C78A77D7A9}|DisHekimiRandevuSistemi.DAL\\DisHekimiRandevuSistemi.DAL.csproj|c:\\users\\dogas\\onedrive\\masa\u00FCst\u00FC\\dishekimirandevusistemi\\dishekimirandevuyonetimsistemi\\dishekimirandevusistemi.dal\\repositories\\implementations\\sekreterrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F8D72395-6C98-4319-9D1D-66C78A77D7A9}|DisHekimiRandevuSistemi.DAL\\DisHekimiRandevuSistemi.DAL.csproj|solutionrelative:dishekimirandevusistemi.dal\\repositories\\implementations\\sekreterrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{718B2622-6CDB-45CF-BE31-2FC2B8337339}|DisHekimiRandevuSistemi.BLL\\DisHekimiRandevuSistemi.BLL.csproj|c:\\users\\dogas\\onedrive\\masa\u00FCst\u00FC\\dishekimirandevusistemi\\dishekimirandevuyonetimsistemi\\dishekimirandevusistemi.bll\\dtos\\randevudoktorupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{718B2622-6CDB-45CF-BE31-2FC2B8337339}|DisHekimiRandevuSistemi.BLL\\DisHekimiRandevuSistemi.BLL.csproj|solutionrelative:dishekimirandevusistemi.bll\\dtos\\randevudoktorupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F8D72395-6C98-4319-9D1D-66C78A77D7A9}|DisHekimiRandevuSistemi.DAL\\DisHekimiRandevuSistemi.DAL.csproj|c:\\users\\dogas\\onedrive\\masa\u00FCst\u00FC\\dishekimirandevusistemi\\dishekimirandevuyonetimsistemi\\dishekimirandevusistemi.dal\\repositories\\implementations\\hastarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F8D72395-6C98-4319-9D1D-66C78A77D7A9}|DisHekimiRandevuSistemi.DAL\\DisHekimiRandevuSistemi.DAL.csproj|solutionrelative:dishekimirandevusistemi.dal\\repositories\\implementations\\hastarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{718B2622-6CDB-45CF-BE31-2FC2B8337339}|DisHekimiRandevuSistemi.BLL\\DisHekimiRandevuSistemi.BLL.csproj|c:\\users\\dogas\\onedrive\\masa\u00FCst\u00FC\\dishekimirandevusistemi\\dishekimirandevuyonetimsistemi\\dishekimirandevusistemi.bll\\dtos\\randevuhastaupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{718B2622-6CDB-45CF-BE31-2FC2B8337339}|DisHekimiRandevuSistemi.BLL\\DisHekimiRandevuSistemi.BLL.csproj|solutionrelative:dishekimirandevusistemi.bll\\dtos\\randevuhastaupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F8D72395-6C98-4319-9D1D-66C78A77D7A9}|DisHekimiRandevuSistemi.DAL\\DisHekimiRandevuSistemi.DAL.csproj|c:\\users\\dogas\\onedrive\\masa\u00FCst\u00FC\\dishekimirandevusistemi\\dishekimirandevuyonetimsistemi\\dishekimirandevusistemi.dal\\repositories\\implementations\\doktorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F8D72395-6C98-4319-9D1D-66C78A77D7A9}|DisHekimiRandevuSistemi.DAL\\DisHekimiRandevuSistemi.DAL.csproj|solutionrelative:dishekimirandevusistemi.dal\\repositories\\implementations\\doktorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{718B2622-6CDB-45CF-BE31-2FC2B8337339}|DisHekimiRandevuSistemi.BLL\\DisHekimiRandevuSistemi.BLL.csproj|c:\\users\\dogas\\onedrive\\masa\u00FCst\u00FC\\dishekimirandevusistemi\\dishekimirandevuyonetimsistemi\\dishekimirandevusistemi.bll\\dtos\\randevucreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{718B2622-6CDB-45CF-BE31-2FC2B8337339}|DisHekimiRandevuSistemi.BLL\\DisHekimiRandevuSistemi.BLL.csproj|solutionrelative:dishekimirandevusistemi.bll\\dtos\\randevucreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F8D72395-6C98-4319-9D1D-66C78A77D7A9}|DisHekimiRandevuSistemi.DAL\\DisHekimiRandevuSistemi.DAL.csproj|c:\\users\\dogas\\onedrive\\masa\u00FCst\u00FC\\dishekimirandevusistemi\\dishekimirandevuyonetimsistemi\\dishekimirandevusistemi.dal\\repositories\\implementations\\adminrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F8D72395-6C98-4319-9D1D-66C78A77D7A9}|DisHekimiRandevuSistemi.DAL\\DisHekimiRandevuSistemi.DAL.csproj|solutionrelative:dishekimirandevusistemi.dal\\repositories\\implementations\\adminrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{718B2622-6CDB-45CF-BE31-2FC2B8337339}|DisHekimiRandevuSistemi.BLL\\DisHekimiRandevuSistemi.BLL.csproj|c:\\users\\dogas\\onedrive\\masa\u00FCst\u00FC\\dishekimirandevusistemi\\dishekimirandevuyonetimsistemi\\dishekimirandevusistemi.bll\\dtos\\kullanicicreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{718B2622-6CDB-45CF-BE31-2FC2B8337339}|DisHekimiRandevuSistemi.BLL\\DisHekimiRandevuSistemi.BLL.csproj|solutionrelative:dishekimirandevusistemi.bll\\dtos\\kullanicicreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,63 +26,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 413,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "SekreterRepository.cs",
-              "DocumentMoniker": "C:\\Users\\dogas\\OneDrive\\Masa\u00FCst\u00FC\\DisHekimiRandevuSistemi\\DisHekimiRandevuYonetimSistemi\\DisHekimiRandevuSistemi.DAL\\Repositories\\Implementations\\SekreterRepository.cs",
-              "RelativeDocumentMoniker": "DisHekimiRandevuSistemi.DAL\\Repositories\\Implementations\\SekreterRepository.cs",
-              "ToolTip": "C:\\Users\\dogas\\OneDrive\\Masa\u00FCst\u00FC\\DisHekimiRandevuSistemi\\DisHekimiRandevuYonetimSistemi\\DisHekimiRandevuSistemi.DAL\\Repositories\\Implementations\\SekreterRepository.cs",
-              "RelativeToolTip": "DisHekimiRandevuSistemi.DAL\\Repositories\\Implementations\\SekreterRepository.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABwAAAAJAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "KullaniciCreateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\dogas\\OneDrive\\Masa\u00FCst\u00FC\\DisHekimiRandevuSistemi\\DisHekimiRandevuYonetimSistemi\\DisHekimiRandevuSistemi.BLL\\DTOs\\KullaniciCreateDTO.cs",
+              "RelativeDocumentMoniker": "DisHekimiRandevuSistemi.BLL\\DTOs\\KullaniciCreateDTO.cs",
+              "ToolTip": "C:\\Users\\dogas\\OneDrive\\Masa\u00FCst\u00FC\\DisHekimiRandevuSistemi\\DisHekimiRandevuYonetimSistemi\\DisHekimiRandevuSistemi.BLL\\DTOs\\KullaniciCreateDTO.cs",
+              "RelativeToolTip": "DisHekimiRandevuSistemi.BLL\\DTOs\\KullaniciCreateDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-21T10:27:32.583Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "HastaRepository.cs",
-              "DocumentMoniker": "C:\\Users\\dogas\\OneDrive\\Masa\u00FCst\u00FC\\DisHekimiRandevuSistemi\\DisHekimiRandevuYonetimSistemi\\DisHekimiRandevuSistemi.DAL\\Repositories\\Implementations\\HastaRepository.cs",
-              "RelativeDocumentMoniker": "DisHekimiRandevuSistemi.DAL\\Repositories\\Implementations\\HastaRepository.cs",
-              "ToolTip": "C:\\Users\\dogas\\OneDrive\\Masa\u00FCst\u00FC\\DisHekimiRandevuSistemi\\DisHekimiRandevuYonetimSistemi\\DisHekimiRandevuSistemi.DAL\\Repositories\\Implementations\\HastaRepository.cs",
-              "RelativeToolTip": "DisHekimiRandevuSistemi.DAL\\Repositories\\Implementations\\HastaRepository.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAQwCgAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-21T10:27:20.371Z",
+              "WhenOpened": "2025-06-21T17:57:15.806Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "DoktorRepository.cs",
-              "DocumentMoniker": "C:\\Users\\dogas\\OneDrive\\Masa\u00FCst\u00FC\\DisHekimiRandevuSistemi\\DisHekimiRandevuYonetimSistemi\\DisHekimiRandevuSistemi.DAL\\Repositories\\Implementations\\DoktorRepository.cs",
-              "RelativeDocumentMoniker": "DisHekimiRandevuSistemi.DAL\\Repositories\\Implementations\\DoktorRepository.cs",
-              "ToolTip": "C:\\Users\\dogas\\OneDrive\\Masa\u00FCst\u00FC\\DisHekimiRandevuSistemi\\DisHekimiRandevuYonetimSistemi\\DisHekimiRandevuSistemi.DAL\\Repositories\\Implementations\\DoktorRepository.cs",
-              "RelativeToolTip": "DisHekimiRandevuSistemi.DAL\\Repositories\\Implementations\\DoktorRepository.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAACIAAAAuAAAAAAAAAA==",
+              "Title": "RandevuCreateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\dogas\\OneDrive\\Masa\u00FCst\u00FC\\DisHekimiRandevuSistemi\\DisHekimiRandevuYonetimSistemi\\DisHekimiRandevuSistemi.BLL\\DTOs\\RandevuCreateDTO.cs",
+              "RelativeDocumentMoniker": "DisHekimiRandevuSistemi.BLL\\DTOs\\RandevuCreateDTO.cs",
+              "ToolTip": "C:\\Users\\dogas\\OneDrive\\Masa\u00FCst\u00FC\\DisHekimiRandevuSistemi\\DisHekimiRandevuYonetimSistemi\\DisHekimiRandevuSistemi.BLL\\DTOs\\RandevuCreateDTO.cs",
+              "RelativeToolTip": "DisHekimiRandevuSistemi.BLL\\DTOs\\RandevuCreateDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-21T10:27:06.231Z",
+              "WhenOpened": "2025-06-21T17:56:36.426Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AdminRepository.cs",
-              "DocumentMoniker": "C:\\Users\\dogas\\OneDrive\\Masa\u00FCst\u00FC\\DisHekimiRandevuSistemi\\DisHekimiRandevuYonetimSistemi\\DisHekimiRandevuSistemi.DAL\\Repositories\\Implementations\\AdminRepository.cs",
-              "RelativeDocumentMoniker": "DisHekimiRandevuSistemi.DAL\\Repositories\\Implementations\\AdminRepository.cs",
-              "ToolTip": "C:\\Users\\dogas\\OneDrive\\Masa\u00FCst\u00FC\\DisHekimiRandevuSistemi\\DisHekimiRandevuYonetimSistemi\\DisHekimiRandevuSistemi.DAL\\Repositories\\Implementations\\AdminRepository.cs",
-              "RelativeToolTip": "DisHekimiRandevuSistemi.DAL\\Repositories\\Implementations\\AdminRepository.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAYwC8AAAAwAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "RandevuHastaUpdateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\dogas\\OneDrive\\Masa\u00FCst\u00FC\\DisHekimiRandevuSistemi\\DisHekimiRandevuYonetimSistemi\\DisHekimiRandevuSistemi.BLL\\DTOs\\RandevuHastaUpdateDTO.cs",
+              "RelativeDocumentMoniker": "DisHekimiRandevuSistemi.BLL\\DTOs\\RandevuHastaUpdateDTO.cs",
+              "ToolTip": "C:\\Users\\dogas\\OneDrive\\Masa\u00FCst\u00FC\\DisHekimiRandevuSistemi\\DisHekimiRandevuYonetimSistemi\\DisHekimiRandevuSistemi.BLL\\DTOs\\RandevuHastaUpdateDTO.cs",
+              "RelativeToolTip": "DisHekimiRandevuSistemi.BLL\\DTOs\\RandevuHastaUpdateDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-21T10:26:32.593Z",
+              "WhenOpened": "2025-06-21T17:52:35.771Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RandevuDoktorUpdateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\dogas\\OneDrive\\Masa\u00FCst\u00FC\\DisHekimiRandevuSistemi\\DisHekimiRandevuYonetimSistemi\\DisHekimiRandevuSistemi.BLL\\DTOs\\RandevuDoktorUpdateDTO.cs",
+              "RelativeDocumentMoniker": "DisHekimiRandevuSistemi.BLL\\DTOs\\RandevuDoktorUpdateDTO.cs",
+              "ToolTip": "C:\\Users\\dogas\\OneDrive\\Masa\u00FCst\u00FC\\DisHekimiRandevuSistemi\\DisHekimiRandevuYonetimSistemi\\DisHekimiRandevuSistemi.BLL\\DTOs\\RandevuDoktorUpdateDTO.cs",
+              "RelativeToolTip": "DisHekimiRandevuSistemi.BLL\\DTOs\\RandevuDoktorUpdateDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T17:50:30.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
             }
           ]
         }

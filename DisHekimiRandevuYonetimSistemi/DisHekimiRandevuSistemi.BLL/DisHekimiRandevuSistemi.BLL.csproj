@@ -6,4 +6,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\DisHekimiRandevuSistemi.DAL\DisHekimiRandevuSistemi.DAL.csproj" />
+  </ItemGroup>
+
 </Project>
