@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace DisHekimiRandevuSistemi.DAL.Repositories.Interfaces
 {
-    public interface IDoktorRepository<T> : IGuncelle<T>, IOku<T> where T : BaseEntity
+    public interface IHizmetRepository<T> : IOku<T> where T : BaseEntity
     {
     }
 }

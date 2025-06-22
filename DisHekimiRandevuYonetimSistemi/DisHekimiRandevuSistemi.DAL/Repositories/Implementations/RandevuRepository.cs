@@ -9,14 +9,11 @@ using System.Threading.Tasks;
 
 namespace DisHekimiRandevuSistemi.DAL.Repositories.Implementations
 {
-
-    //where T : BaseEntity diyerek T tipi için bir kısıtlama (constraint) koyuyoruz. Diyoruz ki T mutlaka BaseEntity'den türemiş bir sınıf olmalı.
-    public class AdminRepository<T> : IAdminRepository<T> where T : BaseEntity
+    public class RandevuRepository<T> : IKullaniciRepository<T> where T : BaseEntity
     {
-
         private readonly MyDbContext _context;
 
-        public AdminRepository(MyDbContext context)
+        public RandevuRepository(MyDbContext context)
         {
             _context = context;
         }
@@ -46,7 +43,7 @@ namespace DisHekimiRandevuSistemi.DAL.Repositories.Implementations
         public void Sil(int id)
         {
             var entity = _context.Set<T>().Find(id);
-            if(entity!=null)
+            if (entity != null)
             {
                 _context.Set<T>().Remove(entity);
                 _context.SaveChanges();
