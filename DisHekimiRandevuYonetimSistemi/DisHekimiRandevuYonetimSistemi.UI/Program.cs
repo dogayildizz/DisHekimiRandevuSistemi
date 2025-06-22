@@ -1,4 +1,9 @@
+using DisHekimiRandevuSistemi.BLL.Services.CRUDQueries;
+using DisHekimiRandevuSistemi.BLL.Services.Interfaces;
+using DisHekimiRandevuSistemi.BLL.Services.Ýnterfaces;
 using DisHekimiRandevuSistemi.DAL.Context;
+using DisHekimiRandevuSistemi.DAL.Repositories.Implementations;
+using DisHekimiRandevuSistemi.DAL.Repositories.Interfaces;
 using Microsoft.AspNetCore.Hosting.Server;
 using Microsoft.EntityFrameworkCore;
 
@@ -16,6 +21,15 @@ namespace DisHekimiRandevuYonetimSistemi.UI
             //MyDbContext’i DI sistemine SQL Server’a baðlanacak þekilde ekler. Connection string’i config’den çeker ve baðlanmaya hazýr hale getirir.
             builder.Services.AddDbContext<MyDbContext>(opt => opt.UseSqlServer(builder.Configuration.GetConnectionString("defaultconnection")));
 
+            builder.Services.AddScoped(typeof(IHizmetRepository<>),typeof(HizmetRepository<>));
+            builder.Services.AddScoped(typeof(IKullaniciRepository<>),typeof(KullaniciRepository<>));
+            builder.Services.AddScoped(typeof(IRandevuRepository<>),typeof(RandevuRepository<>));
+
+            builder.Services.AddScoped(typeof(IHizmetService), typeof(HizmetService));
+            builder.Services.AddScoped(typeof(IKullaniciService), typeof(KullaniciService));
+            builder.Services.AddScoped(typeof(IRandevuService), typeof(RandevuService));
+
+            builder.Services.AddSession();
 
             var app = builder.Build();
 
@@ -31,7 +45,7 @@ namespace DisHekimiRandevuYonetimSistemi.UI
             app.UseStaticFiles();
 
             app.UseRouting();
-
+            app.UseSession();
             app.UseAuthorization();
 
             app.MapControllerRoute(

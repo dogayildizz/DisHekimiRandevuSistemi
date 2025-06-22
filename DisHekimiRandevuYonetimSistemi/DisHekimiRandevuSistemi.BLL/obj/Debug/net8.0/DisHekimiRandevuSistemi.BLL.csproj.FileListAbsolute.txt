@@ -10,3 +10,7 @@ C:\Users\dogas\OneDrive\Masaüstü\DisHekimiRandevuSistemi\DisHekimiRandevuYonet
 C:\Users\dogas\OneDrive\Masaüstü\DisHekimiRandevuSistemi\DisHekimiRandevuYonetimSistemi\DisHekimiRandevuSistemi.BLL\obj\Debug\net8.0\refint\DisHekimiRandevuSistemi.BLL.dll
 C:\Users\dogas\OneDrive\Masaüstü\DisHekimiRandevuSistemi\DisHekimiRandevuYonetimSistemi\DisHekimiRandevuSistemi.BLL\obj\Debug\net8.0\DisHekimiRandevuSistemi.BLL.pdb
 C:\Users\dogas\OneDrive\Masaüstü\DisHekimiRandevuSistemi\DisHekimiRandevuYonetimSistemi\DisHekimiRandevuSistemi.BLL\obj\Debug\net8.0\ref\DisHekimiRandevuSistemi.BLL.dll
+C:\Users\dogas\OneDrive\Masaüstü\DisHekimiRandevuSistemi\DisHekimiRandevuYonetimSistemi\DisHekimiRandevuSistemi.BLL\bin\Debug\net8.0\DisHekimiRandevuSistemi.DAL.dll
+C:\Users\dogas\OneDrive\Masaüstü\DisHekimiRandevuSistemi\DisHekimiRandevuYonetimSistemi\DisHekimiRandevuSistemi.BLL\bin\Debug\net8.0\DisHekimiRandevuSistemi.DAL.pdb
+C:\Users\dogas\OneDrive\Masaüstü\DisHekimiRandevuSistemi\DisHekimiRandevuYonetimSistemi\DisHekimiRandevuSistemi.BLL\obj\Debug\net8.0\DisHekimiRandevuSistemi.BLL.csproj.AssemblyReference.cache
+C:\Users\dogas\OneDrive\Masaüstü\DisHekimiRandevuSistemi\DisHekimiRandevuYonetimSistemi\DisHekimiRandevuSistemi.BLL\obj\Debug\net8.0\DisHekim.ABFC9E49.Up2Date

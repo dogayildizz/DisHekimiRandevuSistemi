@@ -14,7 +14,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\DisHekimiRandevuSistemi.DAL\DisHekimiRandevuSistemi.DAL.csproj" />
+    <ProjectReference Include="..\DisHekimiRandevuSistemi.BLL\DisHekimiRandevuSistemi.BLL.csproj" />
   </ItemGroup>
 
 </Project>

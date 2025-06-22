@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DisHekimiRandevuSistemi.BLL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+616ac9d9ad6906d4ed1a5cfa3d9d6f8e04421427")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6be24389cbe38c27d6b2e281095974dfcb3f4a77")]
 [assembly: System.Reflection.AssemblyProductAttribute("DisHekimiRandevuSistemi.BLL")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DisHekimiRandevuSistemi.BLL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

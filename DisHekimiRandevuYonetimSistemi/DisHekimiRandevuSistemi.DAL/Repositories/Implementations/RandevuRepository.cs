@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace DisHekimiRandevuSistemi.DAL.Repositories.Implementations
 {
-    public class RandevuRepository<T> : IKullaniciRepository<T> where T : BaseEntity
+    public class RandevuRepository<T> : IRandevuRepository<T> where T : BaseEntity
     {
         private readonly MyDbContext _context;
 

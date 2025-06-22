@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DisHekimiRandevuYonetimSistemi.UI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ad0c47325cd918b17e166c2b0e599d3c40ceac62")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6be24389cbe38c27d6b2e281095974dfcb3f4a77")]
 [assembly: System.Reflection.AssemblyProductAttribute("DisHekimiRandevuYonetimSistemi.UI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DisHekimiRandevuYonetimSistemi.UI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
